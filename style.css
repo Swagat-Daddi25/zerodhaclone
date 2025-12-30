@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+#btn {
+  background-color: skyblue;
+  color: white;
+}
